@@ -24,6 +24,7 @@ namespace Apka1
             //komentarz1
         {
             int x;
+            int y; 
             InitializeComponent();
         }
     }
