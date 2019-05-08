@@ -1,2 +1,2 @@
 # test1
-I don't what I'm doing here :/
+I don't know what I'm doing here :/
